@@ -1,0 +1,16 @@
+[Çar 16.10.2024 23:12:04,34] Optimizing System Performance 
+[SC] ControlService FAILED 1062:
+
+Hizmet ba�lat�lmad�.
+
+[SC] ChangeServiceConfig SUCCESS
+Disabled SysMain (Superfetch) 
+
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+İşlem başarıyla tamamlandı.
+Set bootmenupolicy to Standard 
+Disabled Hibernation 
+Invalid Parameters -- try "/?" for help
+Set Power Plan to High Performance 

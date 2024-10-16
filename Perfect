@@ -1,0 +1,124 @@
+Sistem belirtilen yolu bulamıyor.
+C:\Users\bakiv\AppData\Local\Temp\01e8c796-34bb-4896-a751-e52aa9975f59.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\1466dbe5-04f9-49d4-8a45-d79ed2064ffe.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\3b25900d-929f-4643-8cca-93b12b0ad6aa.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\4f8b1833-b4aa-488c-9c1e-a16ab534ab00.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\7eaf47eb-cf55-4002-9249-28a85462958b.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\af388e43-8614-4bbe-b9dc-0c246d5e6152.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\b8891bde-7610-4cc1-bf85-4ea4eea3f872.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\da27302e-d7f6-429b-93d3-121ae7ff2008.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\dfc78bf6-b6ef-4e88-8f53-1fdf25e1277f.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\e5714598-ce7a-4580-8b56-5f26d34c1c16.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Users\bakiv\AppData\Local\Temp\f318ce9e-c0bd-4f61-89f6-8369337850d7.tmp - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+A subdirectory or file C:\Users\bakiv\AppData\Local\Temp already exists.
+Error occurred while processing: C:\Users\bakiv\AppData\Local\Temp.
+C:\Windows\SoftwareDistribution\DATAST~1\DataStore.edb - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Windows\SoftwareDistribution\DATAST~1\DataStore.jfm - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Windows\SoftwareDistribution\DATAST~1\Logs\edb.log - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Windows\SoftwareDistribution\DATAST~1\Logs\edbtmp.log - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Windows\SoftwareDistribution\DATAST~1\Logs\tmp.edb - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+C:\Windows\SoftwareDistribution\ReportingEvents.log - Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor.
+A subdirectory or file C:\Windows\SoftwareDistribution already exists.
+Error occurred while processing: C:\Windows\SoftwareDistribution.
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""AllowWiFiHotSpotReporting"" in ""HKLM\Software\Microsoft\PolicyManager\default\WiFi""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""AllowAutoConnectToWiFiSenseHotspots"" in ""HKLM\Software\Microsoft\PolicyManager\default\WiFi""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""EnableActivityFeed"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\System""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""PublishUserActivities"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\System""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""UploadUserActivities"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\System""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""Value"" in ""HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""SensorPermissionState"" in ""HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Sensor\Overrides\{BFA794E4-F964-4FDB-90F6-51056BFE4B44}""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""Status"" in ""HKLM\SYSTEM\CurrentControlSet\Services\lfsvc\Service\Configuration""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""AutoUpdateEnabled"" in ""HKLM\SYSTEM\Maps""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""Enabled"" in ""HKLM\SOFTWARE\Policies\Microsoft\Biometrics""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""EnableActivityFeed"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\System""  Windows\privacy_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""AllowTelemetry"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""AllowTelemetry"" in ""HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""CEIPEnable"" in ""HKLM\SOFTWARE\Policies\Microsoft\SQMClient\Windows""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""CEIPEnable"" in ""HKLM\SOFTWARE\Policies\Microsoft\SQMClient""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""AITEnable"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""DisableInventory"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""DisableUAR"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""Disabled"" in ""HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting""  Windows\telemetry_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""VisualFXSetting"" in ""HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects""  Windows\performance_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""EnableTransparency"" in ""HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize""  Windows\performance_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""MinAnimate"" in ""HKCU\Control Panel\Desktop\WindowMetrics""  Windows\performance_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""CacheHashTableBucketSize"" in ""HKLM\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters""  Windows\performance_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""CacheHashTableSize"" in ""HKLM\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters""  Windows\performance_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""HiberbootEnabled"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power""  Windows\performance_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""DisableExternalDMAUnderLock"" in ""HKLM\SOFTWARE\Policies\Microsoft\FVE""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""EnableVirtualizationBasedSecurity"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""HVCIMATRequired"" in ""HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""DisableExceptionChainValidation"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\kernel""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""KernelSEHOPEnabled"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\kernel""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""EnableCfg"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""ProtectionMode"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""FeatureSettingsOverride"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management""  Windows\mitigations_log.txt""
+ERROR: Invalid syntax.
+Type "REG ADD /?" for usage.
+Failed to add/update ""FeatureSettingsOverrideMask"" in ""HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management""  Windows\mitigations_log.txt""

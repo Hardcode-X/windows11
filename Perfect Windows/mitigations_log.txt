@@ -1,0 +1,13 @@
+[Çar 16.10.2024 23:12:13,83] Disabling System Mitigations 
+At line:1 char:103
++ ... ach-Object { Set-ProcessMitigation -System -Disable @{($_.Feature)} }
++                                                                       ~
+Missing '=' operator after key in hash literal.
+At line:1 char:48
++ Get-ProcessMitigation -System | ForEach-Object { Set-ProcessMitigatio ...
++                                                ~
+Missing closing '}' in statement block or type definition.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEqualsInHashLiteral
+ 
+Removed Image File Execution Options 
